@@ -1,7 +1,10 @@
 body {
   margin: 0;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5effc4dabcdd267a41c6c5e1b8bde0b9c60dac31
 
 .header {
   margin: 0 auto;
@@ -55,7 +58,6 @@ body {
     text-decoration: none;
     display: inline-block;
     font-family: monospace;
-    font-weight: bold;
 }
 
 #Home a:hover {
@@ -68,7 +70,6 @@ body {
     text-decoration: none;
     display: inline-block;
     font-family: monospace;
-    font-weight: bold;
 }
 
 #Donate a {
@@ -81,6 +82,7 @@ body {
     text-decoration: none;
     display: inline-block;
     font-family: monospace;
+    font-weight: bold;
 }
 
 #Donate a:hover {
@@ -93,6 +95,7 @@ body {
     text-decoration: none;
     display: inline-block;
     font-family: monospace;
+    font-weight: bold;
 }
 
 #subscribewrapper {
@@ -100,6 +103,10 @@ body {
   padding: 0px 90px;
   width: 980px;
   height: 125px;
+}
+
+#welcomeheadline {
+  float: left;
 }
 
 #subscribebg {
@@ -167,7 +174,6 @@ input:focus {
   box-shadow: 0 0 2px lightblue;
 }
 
-
 .testtest {
   margin: 0 auto;
   width: 100%;
@@ -177,7 +183,7 @@ input:focus {
 
 
 #testdiv {
-  padding: 500px;
+
   width: 100%;
   height: 100px;
   background-color: red;
@@ -200,7 +206,7 @@ input:focus {
 .about {
   background-color: #f2f2f2;
   width: 100%;
-  height: 325px;
+  height: 300px;
 }
 
 #aboutus {
@@ -318,5 +324,3 @@ input:focus {
     display: inline-block;
     font-family: monospace;
 }
-=======
->>>>>>> 451ed42c15993a5587f095561c98664d0aaa0bd5
