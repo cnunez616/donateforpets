@@ -1,6 +1,7 @@
 body {
   margin: 0;
 }
+<<<<<<< HEAD
 
 .header {
   margin: 0 auto;
@@ -317,3 +318,5 @@ input:focus {
     display: inline-block;
     font-family: monospace;
 }
+=======
+>>>>>>> 451ed42c15993a5587f095561c98664d0aaa0bd5
